@@ -26,6 +26,7 @@ numbers[2] = 100; // [43, 56, 100, 23, 44, 46, 5]
 val = numbers.indexOf(36); //5
 
 // //MUTATING ARRAYS
+
 // //Add on to end
 // numbers.push(250); //[43, 56, 100, 23, 44, 36, 5, 250]
 // //Add on the front

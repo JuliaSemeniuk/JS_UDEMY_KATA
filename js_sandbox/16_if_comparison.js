@@ -1,4 +1,4 @@
-const id = "100";
+//const id = "100";
 
 //EQUAL TO
 
