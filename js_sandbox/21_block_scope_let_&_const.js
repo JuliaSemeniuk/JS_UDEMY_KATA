@@ -39,4 +39,4 @@ console.log("Global Scope: " + a, b, c); //Global Scope: 5 2 3 - var was changed
 for (let b = 0; a < 5; a++) {
   console.log("let b: " + b); //0 1 2 3 4
 }
-console.log("Global Scope: " + a, b, c); //Global Scope: 5 2 3 - var was changed!!
+console.log("Global Scope: " + a, b, c); //Global Scope: 5 2 3 - let is stell the same!!
