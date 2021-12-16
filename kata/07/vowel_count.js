@@ -21,4 +21,4 @@ function countVowels(string) {
   return arrayVowel.length;
 }
 
-console.log(countVowels("Hello, my name is Julia"));
+console.log(countVowels("Hello, my name is "));
